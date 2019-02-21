@@ -1,0 +1,19 @@
+{
+  "name": "gradientcolors",
+  "version": "1.0.0",
+  "description": "simple proj",
+  "main": "ColorScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradasi/GradientColors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradasi/GradientColors/issues"
+  },
+  "homepage": "https://github.com/pradasi/GradientColors#readme"
+}
